@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+html,body{
+    height: 100%;
+}
+body{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background: #dde1e7;
+}
+.pecel{
+    color: #595959;
+}
+.ngtabel{
+    width: 60px;
+}
+tr td,th{
+    margin: 3px;
+    padding: 3px;
+}
